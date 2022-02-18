@@ -3,10 +3,10 @@
     justify-content: space-between;
     align-items: center;
     padding: 1em 1.2em;
-    margin-bottom: 2em;
-    background-color: brown;
+    /* margin-bottom: 2em; */
+    background-color: rgb(113, 126, 144);
     color: aliceblue;
-    border-bottom: 3px solid grey;
+    border-bottom: 3px solid rgb(116, 110, 110);
 }
 
 .logo {

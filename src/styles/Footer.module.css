@@ -2,11 +2,13 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    background-color: brown;
-    height:auto ;
-    margin-top: 2em;
-    border-top: 3px solid grey;
-    color: white; 
+    background-color: rgb(113, 126, 144);
+    ;
+    height: auto;
+    /* margin-top: 2em; */
+    border-top: 3px solid rgb(116, 110, 110);
+    ;
+    color: white;
 }
 
 .footer span {
